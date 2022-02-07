@@ -1,4 +1,5 @@
-# [Wikidata Live Changes](https://isobelm.github.io/Software-Engineering/)
+# [Wikidata Live Changes](https://group29-tcd.github.io/Software-Engineering/#/)
+![CI/CD](https://github.com/Group29-TCD/Software-Engineering/workflows/CI/CD/badge.svg) [![codecov](https://codecov.io/gh/Group29-TCD/Software-Engineering/branch/master/graph/badge.svg)](https://codecov.io/gh/Group29-TCD/Software-Engineering)
 
 ![banner](data/Dashboard.gif)
 
@@ -18,7 +19,7 @@ You will need to have installed:
 1. Clone the GitHub repository
 
 ```
-git clone https://github.com/isobelm/Software-Engineering.git
+git clone https://github.com/Group29-TCD/Software-Engineering.git
 ```
 
 2. Navigate into the cloned GitHub repository
@@ -48,7 +49,10 @@ The website should now have opened on your default browser. The server is hosted
 * [React Bootstrap](https://react-bootstrap.github.io/) - CSS framework used
 * [Nivo](https://nivo.rocks/) - Graphing framework used
 
-## Authors
+## Authors of V2
+* [Jay Cowan](https://github.com/jaycowan)
+* Everyone add yours here
+## Authors of V1
 * [Isobel Mahon](https://github.com/isobelm)
 * [Brian Lynch](https://github.com/brianlunch)
 * [Odhran Mullan](https://github.com/omullan)
