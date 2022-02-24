@@ -51,6 +51,7 @@ The website should now have opened on your default browser. The server is hosted
 
 ## Authors of V2
 * [Jay Cowan](https://github.com/jaycowan)
+* [Liam O Lionaird](https://github.com/liam-ol)
 * Everyone add yours here
 ## Authors of V1
 * [Isobel Mahon](https://github.com/isobelm)
